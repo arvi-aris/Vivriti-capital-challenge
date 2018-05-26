@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.logo {
+	height: 50px;
+}
+.landing {
+	padding: 15px;
+}
+.beer-card {
+	height: 500px;
+	overflow-y: scroll;
+}
+.beer-item {
+	color: white !important;
+}
+.cart-area {
+}
+.cart-card {
+	min-height: 500px;
+}
+.cart-header {
+	color: white !important;
+	background-color: #ef5e27 !important;	
+}
+.bar-grid {
+	padding: 0 !important;
+}
+.add-to-cart {
+	color: white !important;
+	background-color: #ef5e27 !important;	
+	cursor: pointer;
+}
+.tool-icon {
+	margin: 10px;
+}
+.title {
+	margin: 8px;
+}
+.empty-cart {
+	margin: 20px;
+}
